@@ -1,0 +1,2 @@
+# audio_player
+使用ffmpeg和portaudio做的一个简单的音频播放器，后续会继续加入opengl和aubio来对音频的一些数据显示和分析，目前还有待完善，暂时还不能使用
